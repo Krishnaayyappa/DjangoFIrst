@@ -1,0 +1,76 @@
+body{
+    margin:0;
+    background-color: antiquewhite;
+}
+
+.home h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img{
+    width:100%;
+}
+
+.home{
+    margin-top: 120px;
+}
+
+.img img{
+    display: block;
+    width:50%;
+    margin:auto;
+    
+}
+
+.title a{
+    font-size: 30px;
+    font-family: 'Futura', Courier, monospace;
+    color: white;
+}
+
+.collapse{
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.row input{
+    width: 30%;
+}
+
+.row label{
+    margin-left:5px;
+}
+
+.adddetails{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    
+}
+
+.details{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.detailstable{
+    width: 50%;
+    margin:auto;
+    margin-top: 30px;;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

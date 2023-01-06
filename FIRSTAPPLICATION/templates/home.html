@@ -1,0 +1,18 @@
+{% extends 'base.html'%}
+{% load static %}
+
+{% block cssfiles %}
+    <link rel="stylesheet" href="{% static 'FIRSTAPPLICATION/css/styles.css' %}">
+{% endblock %}
+{% block content %}
+    <div class="home">
+        <h1>Hi! Welcome to the innovation with python training</h1>
+        <div class="img">
+            <img src = "{% static 'FIRSTAPPLICATION/Django.jpg' %}" alt="python+Django image">
+        </div>
+    </div>
+    
+{% endblock %}
+
+
+    
